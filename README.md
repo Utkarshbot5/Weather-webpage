@@ -32,7 +32,7 @@ VS Code was essential as the development environment due to its extensive langua
 - Integrated terminal for quick command-line operations.
 - Git integration to track changes and simplify version control.
 - Extensions like Prettier and ESLint for code formatting and linting, ensuring quality and consistency.
-- Live Server for instant browser reloading during development cycles[1].
+- Live Server for instant browser reloading during development cycles
 
 ## Core Features
 
@@ -46,8 +46,7 @@ At the heart of the application is API integration. The app connects to a weathe
 - Wind speed
 - Sunrise and sunset times
 
-The API ensures reliable and accurate information direct from established meteorological databases[2][3][1].
-
+The API ensures reliable and accurate information direct from established meteorological databases.
 ### User Interface and Experience
 
 - The app features an input field for city search, a search button, and a weather display area.
