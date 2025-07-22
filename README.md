@@ -80,3 +80,4 @@ Robust error handling is implemented to manage invalid city names, connectivity 
 Developing a weather app with API integration in VS Code is an excellent showcase of modern web development best practices. The project efficiently demonstrates real-time data handling, user-centric design, and code quality enforcement through industry-standard tools, creating a reliable, informative, and responsive application for everyday use.
 
 OUTPUT
+<img width="1920" height="1078" alt="Image" src="https://github.com/user-attachments/assets/f1fe5a6f-c89e-4595-9386-38e2dc5888d3" />
